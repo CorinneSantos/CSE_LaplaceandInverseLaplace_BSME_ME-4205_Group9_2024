@@ -3,7 +3,7 @@ clear
 clc
 close all
 
-syms t s
+syms t
 %% I. Laplace Transform
 %% Problem 1
 f1 = 3 - exp(-3*t) + 5*sin(2*t);
