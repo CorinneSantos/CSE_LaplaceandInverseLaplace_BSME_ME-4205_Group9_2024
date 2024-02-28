@@ -3,7 +3,7 @@ clear
 clc
 close all
 
-syms t s
+syms s
 %% II. Inverse Laplace Transform
 %% Problem 1
 F4 = (8-3*s+s^2)/s^3;
