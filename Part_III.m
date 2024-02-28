@@ -3,7 +3,7 @@ clear
 clc
 close all
 
-syms t s
+syms s
 
 %% III. Inverse Laplace Transform
 %% Problem 1
